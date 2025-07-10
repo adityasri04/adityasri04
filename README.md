@@ -1,22 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aditya+Dhananjai+Srivastava; Fullstack+Developer+%7C+AI+Explorer+%7C+CS+Undergrad; Building+clean%2C+scalable%2C+impactful+products" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Aditya+Dhananjai+Srivastava;Fullstack+Developer+%7C+AI+Builder+%7C+Crafting+Clean+Code" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai" />
-</p>
-
----
-
-<p align="center">
-  🚀 I’m a developer who loves building fullstack systems, crafting scalable backend APIs, and integrating smart AI into real products.
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
+
 
 ### 🧠 About Me
 - 🎓 CS Undergrad @ MIT-WPU | Expected 2026
