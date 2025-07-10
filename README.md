@@ -50,14 +50,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasri04&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasri04&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
-
 ### 🌐 Reach Me
 <p align="center">
   <a href="mailto:adityabakhsh04@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
